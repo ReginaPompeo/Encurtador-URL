@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API-Encurtador-URL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51a34620cd0b6185999138e80dbfbf50c37d17e")]
 [assembly: System.Reflection.AssemblyProductAttribute("API-Encurtador-URL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API-Encurtador-URL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
